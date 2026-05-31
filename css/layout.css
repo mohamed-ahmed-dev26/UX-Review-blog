@@ -1,0 +1,108 @@
+.d-flex {
+  display: flex;
+}
+.flex-wrab {
+  flex-wrap: wrap;
+}
+.w-100 {
+  width: 100%;
+}
+/* ------------------------------------------ */
+/* width-items */
+/* sm */
+@media screen and (min-width: 640px) {
+.sm-100{
+  width: 100%;
+}
+.sm-50{
+  width: 50%;
+}
+.sm-33{
+  width: 33.333%;
+}
+.sm-25{
+  width: 25%;
+}
+.sm-20{
+  width: 20%;
+}
+}
+/* md */
+@media screen and (min-width: 768px) {
+.md-100{
+  width: 100%;
+}
+.md-50{
+  width: 50%;
+}
+.md-80{
+  width: 80%;
+}
+
+.md-33{
+  width: 33.333%;
+}
+.md-25{
+  width: 25%;
+}
+.md-20{
+  width: 20%;
+}
+}
+/* lg */
+@media screen and (min-width: 1024px) {
+.lg-100{
+  width: 100%;
+}
+.lg-60{
+  width: 60%;
+}
+.lg-50{
+  width: 50%;
+}
+.lg-48{
+  width: 48%;
+}
+.lg-45{
+  width: 45%;
+}
+.lg-40{
+  width: 40%;
+}
+.lg-38{
+  width: 38%;
+}
+.lg-33{
+  width: 33.333%;
+}
+.lg-25{
+  width: 25%;
+}
+.lg-20{
+  width: 20%;
+}
+.lg-15{
+  width: 15%;
+}
+}
+/* xl */
+@media screen and (min-width: 1280px) {
+.xl-100{
+  width: 100%;
+}
+.xl-50{
+  width: 50%;
+}
+.xl-33{
+  width: 33.333%;
+}
+.xl-32{
+  width: 32%;
+}
+.xl-25{
+  width: 25%;
+}
+.xl-20{
+  width: 20%;
+}
+}
